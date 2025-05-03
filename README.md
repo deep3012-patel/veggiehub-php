@@ -1,2 +1,28 @@
-# veggiehub-php
- Veggie Hub is a web platform that connects farmers directly with retailers, removing middlemen to  ensure fair pricing and better profits. It streamlines ordering, supports secure transactions, and  promotes local agriculture through digital solutions/
+🌿 VegieHub – Connecting Farmers & Retailers
+📌 Overview
+VegieHub is a web-based platform that bridges the gap between farmers and retailers, enabling direct crop trading without middlemen.
+Farmers can list available vegetables, fruits, and crops, while retailers can browse listings, place orders, and make payments.
+The platform supports secure transactions, real-time updates, and a clean UI for both parties.
+
+✨ Features
+🧑‍🌾 Farmer Module: Add, update, and manage crop listings.
+🛒 Retailer Module: Browse listings and place orders.
+📦 Order Management: Smooth order flow with details tracking.
+💳 Payment Integration: Support for Online/COD options.
+🛠️ Admin Panel: Admin can add/delete/update farmers, retailers, and listings.
+🧰 Tech Stack
+Frontend: HTML, CSS, JavaScript, Angular, Bootstrap
+Backend: PHP
+Database: MySQL
+📸 Screenshots
+🏡 Home Page | 🛒 Cart Page | 🔐 Login Page | 🧑‍💼 Buyer Register Page | 👨‍🌾 Farmer Page | 💰 Payment Page
+
+Screenshots can be found in the screenshots folder (e.g., ./screenshots/home.jpeg)
+
+🚀 Future Enhancements
+AI-based crop price predictions
+Chat system between farmers and retailers
+Delivery Module
+Notification system (SMS/Email)
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
